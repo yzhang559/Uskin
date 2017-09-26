@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/button_login"
+            android:icon="@mipmap/user"
+            android:title="@string/button_login" />
+        <item
+            android:id="@+id/button_alayze"
+            android:icon="@mipmap/analyze"
+            android:title="Analyze" />
+        <item
+            android:id="@+id/button_history"
+            android:icon="@mipmap/history"
+            android:title="@string/button_history" />
+        <item
+            android:id="@+id/button_standard"
+            android:icon="@mipmap/standard"
+            android:title="@string/button_standard"/>
+        <item
+            android:id="@+id/button_setting"
+            android:icon="@mipmap/setting"
+            android:title="@string/button_setting" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/button_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>

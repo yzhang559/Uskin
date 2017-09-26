@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Coco_Parfit">#E6D8C7</color>
+    <color name="Dream_Fluff">#F1E7D9</color>
+    <color name="Albite">#EBDCC7</color>
+    <color name="Oyster_White">#F1E3CC</color>
+    <color name="Teanne">#EFE4CD</color>
+
+    <color name="Tumbleweed">#cebba5</color>
+    <color name="Crumpet">#eddbc7</color>
+    <color name="Honey_Butter">#ebcaa6</color>
+    <color name="Naples_Cream">#f0cda1</color>
+    <color name="Caramel_Tint">#eccea1</color>
+
+    <color name="c2062">#b99d87</color>
+    <color name="k2069">#dbbea2</color>
+    <color name="p2075">#e0b087</color>
+    <color name="g2081">#e6af73</color>
+    <color name="b2088">#dbaf7e</color>
+
+    <color name="s2063">#a37e67</color>
+    <color name="s2070">#d2ac8b</color>
+    <color name="s2076">#c2936e</color>
+    <color name="s2082">#c28450</color>
+    <color name="s2089">#d9a66d</color>
+
+    <color name="s2064">#926f5a</color>
+    <color name="s2071">#a57b5a</color>
+    <color name="s2077">#ad7c5a</color>
+    <color name="s2083">#b2794c</color>
+    <color name="s2090">#b48251</color>
+
+    <color name="s2065">#694f40</color>
+    <color name="s2072">#7d563e</color>
+    <color name="s2078">#946447</color>
+    <color name="s2084">#a46a42</color>
+    <color name="s2091">#9d7049</color>
+
+
+
+
+
+    <color name="s2160_10">#a46a42</color>
+    <color name="s2161_10">#946447</color>
+    <color name="s2162_10">#7d563f</color>
+    <color name="s2163_10">#7d5640</color>
+    <color name="s2164_10">#694f40</color>
+
+    <color name="s2160_20">#b2794c</color>
+    <color name="s2161_20">#946448</color>
+    <color name="s2162_20">#7d553f</color>
+    <color name="s2164_20">#7d563e</color>
+
+
+    <color name="s2160_30">#c28450</color>
+    <color name="s2161_30">#a57b5a</color>
+    <color name="s2162_30">#946447</color>
+
+    <color name="s21">#dbaf7e</color>
+    <color name="s2161_40">#c2936e</color>
+    <color name="s2164_40">#a37e67</color>
+
+    <color name="s2160_50">#ebcaa6</color>
+    <color name="s2161_50">#dbbea2</color>
+    <color name="s2163_50">#cfbba5</color>
+
+    <color name="s2160_60">#f1e3cc</color>
+    <color name="s2161_60">#eddbc7</color>
+    <color name="s2162_60">#e6d8c7</color>
+
+    <color name="s2160_70">#f0e6d8</color>
+
+
+
+
+     <color name="s280C_1">#f1e3cc</color>
+     <color name="s280E_1">#f1e7d9</color>
+     <color name="s290C_1">#f1e3cc</color>
+     <color name="s290E_1">#ebdcc7</color>
+
+     <color name="s280C_2">#ebcaa6</color>
+     <color name="s280E_2">#dbbea2</color>
+     <color name="s290C_2">#eddbc7</color>
+     <color name="s290E_2">#ebcaa6</color>
+
+     <color name="s280C_3">#e0b187</color>
+     <color name="s280E_3">#d2ac8b</color>
+     <color name="s290C_3">#f0cda1</color>
+     <color name="s290E_3">#cebba5</color>
+
+     <color name="s280D_4">#d9a66d</color>
+     <color name="s280F_4">#c2936e</color>
+     <color name="s290D_4">#e6af73</color>
+     <color name="s290F_4">#a37e67</color>
+
+     <color name="s280D_5">#c2936e</color>
+     <color name="s280F_5">#a57b5a</color>
+     <color name="s290D_5">#c28450</color>
+     <color name="s290F_5">#a57b5a</color>
+
+     <color name="s280D_6">#c28450</color>
+     <color name="s280F_6">#926f5a</color>
+
+     <color name="s280D_7">#a46a42</color>
+     <color name="s280F_7">#694f40</color>
+
+
+
+
+
+
+
+    <array name="standardSkin" >
+        <item>@color/Coco_Parfit</item>
+        <item>@color/Dream_Fluff</item>
+        <item>@color/Albite</item>
+        <item>@color/Oyster_White</item>
+        <item>@color/Teanne</item>
+
+        <item>@color/Tumbleweed</item>
+        <item>@color/Crumpet</item>
+        <item>@color/Honey_Butter</item>
+        <item>@color/Naples_Cream</item>
+        <item>@color/Caramel_Tint</item>
+
+        <item>@color/c2062</item>
+        <item>@color/k2069</item>
+        <item>@color/p2075</item>
+        <item>@color/g2081</item>
+        <item>@color/b2088</item>
+
+        <item>@color/s2063</item>
+        <item>@color/s2070</item>
+        <item>@color/s2076</item>
+        <item>@color/s2082</item>
+        <item>@color/s2089</item>
+
+        <item>@color/s2064</item>
+        <item>@color/s2071</item>
+        <item>@color/s2077</item>
+        <item>@color/s2083</item>
+        <item>@color/s2090</item>
+
+        <item>@color/s2065</item>
+        <item>@color/s2072</item>
+        <item>@color/s2078</item>
+        <item>@color/s2084</item>
+        <item>@color/s2091</item>
+
+
+
+
+
+        <item>@color/s2160_10</item>
+        <item>@color/s2161_10</item>
+        <item>@color/s2162_10</item>
+        <item>@color/s2163_10</item>
+        <item>@color/s2164_10</item>
+
+        <item>@color/s2160_20</item>
+        <item>@color/s2161_20</item>
+        <item>@color/s2162_20</item>
+        <item>@color/s2164_20</item>
+
+        <item>@color/s2160_30</item>
+        <item>@color/s2161_30</item>
+        <item>@color/s2162_30</item>
+
+        <item>@color/s21</item>
+        <item>@color/s2161_40</item>
+        <item>@color/s2164_40</item>
+
+        <item>@color/s2160_50</item>
+        <item>@color/s2161_50</item>
+        <item>@color/s2163_50</item>
+
+        <item>@color/s2160_60</item>
+        <item>@color/s2161_60</item>
+        <item>@color/s2162_60</item>
+
+        <item>@color/s2160_70</item>
+
+
+
+         <item>@color/s280C_1</item>
+         <item>@color/s280E_1</item>
+         <item>@color/s290C_1</item>
+         <item>@color/s290E_1</item>
+
+         <item>@color/s280C_2</item>
+         <item>@color/s280E_2</item>
+         <item>@color/s290C_2</item>
+         <item>@color/s290E_2</item>
+
+         <item>@color/s280C_3</item>
+         <item>@color/s280E_3</item>
+         <item>@color/s290C_3</item>
+         <item>@color/s290E_3</item>
+
+         <item>@color/s280D_4</item>
+         <item>@color/s280F_4</item>
+         <item>@color/s290D_4</item>
+         <item>@color/s290F_4</item>
+
+         <item>@color/s280D_5</item>
+         <item>@color/s280F_5</item>
+         <item>@color/s290D_5</item>
+         <item>@color/s290F_5</item>
+
+         <item>@color/s280D_6</item>
+         <item>@color/s280F_6</item>
+
+         <item>@color/s280D_7</item>
+         <item>@color/s280F_7</item>
+
+
+    </array>
+
+    <string-array name="fi">
+        <item>2060</item>
+        <item>2067</item>
+        <item>2073</item>
+        <item>2079</item>
+        <item>2086</item>
+
+        <item>2061</item>
+        <item>2068</item>
+        <item>2074</item>
+        <item>2080</item>
+        <item>2087</item>
+
+        <item>2062</item>
+        <item>2068</item>
+        <item>2075</item>
+        <item>2081</item>
+        <item>2088</item>
+
+        <item>2063</item>
+        <item>2069</item>
+        <item>2076</item>
+        <item>2082</item>
+        <item>2089</item>
+
+        <item>2064</item>
+        <item>2070</item>
+        <item>2076</item>
+        <item>2083</item>
+        <item>2090</item>
+
+        <item>2065</item>
+        <item>2071</item>
+        <item>2078</item>
+        <item>2084</item>
+        <item>2091</item>
+
+
+
+
+        <item>2160-10</item>
+        <item>2161-10</item>
+        <item>2162-10</item>
+        <item>2163-10</item>
+        <item>2164-10</item>
+
+        <item>2160-20</item>
+        <item>2161-20</item>
+        <item>2162-20</item>
+        <item>2164-20</item>
+
+        <item>2160-30</item>
+        <item>2161-30</item>
+        <item>2162-30</item>
+
+        <item>s21</item>
+        <item>2161-40</item>
+        <item>2162-40</item>
+
+        <item>2160-50</item>
+        <item>2161-50</item>
+        <item>2163-50</item>
+
+        <item>2160-60</item>
+        <item>2161-60</item>
+        <item>2162-60</item>
+
+        <item>2160-70</item>
+
+        //52
+         <item>280C-1</item>
+         <item>280E-1</item>
+         <item>290C-1</item>
+         <item>290E-1</item>
+
+        <item>280C-2</item>
+        <item>280E-2</item>
+        <item>290C-2</item>
+        <item>290E-2</item>
+
+         <item>280C-3</item>
+         <item>280E-3</item>
+         <item>290C-3</item>
+         <item>290E-3</item>
+
+          <item>280D-4</item>
+          <item>280F-4</item>
+          <item>290D-4</item>
+          <item>290F-4</item>
+
+          <item>280D-5</item>
+          <item>280F-5</item>
+          <item>290D-5</item>
+          <item>290F-5</item>
+
+         <item>280D-6</item>
+         <item>280F-6</item>
+
+         <item>290D-7</item>
+         <item>290F-7</item>
+
+
+    </string-array>
+
+
+
+</resources>

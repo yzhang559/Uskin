@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/tab2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="ACCOUNT INFORMATION"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:stretchColumns="0,1"
+        android:layout_column="3">
+        <TableRow
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Name "
+                android:textSize="22dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginRight="5dp"
+                android:textStyle="bold"
+                android:background="@drawable/border"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                />
+
+            <TextView
+                android:id="@+id/name2"
+                android:textSize="22dp"
+                android:maxLines="1"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_marginLeft="5dp"
+                android:padding="10dp"
+                android:background="@drawable/border"
+                />
+
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_height="15dp"/>
+        </TableRow>
+
+
+        <TableRow
+
+            android:layout_height="wrap_content"
+            android:textSize="22dp">
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Age "
+                android:textSize="22dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginRight="5dp"
+                android:textStyle="bold"
+                android:background="@drawable/border"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                />
+
+            <TextView
+                android:id="@+id/age2"
+                android:maxLines="1"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_marginLeft="5dp"
+                android:textSize="22dp"
+                android:padding="10dp"
+                android:background="@drawable/border"
+                android:imeOptions="actionUnspecified"
+                android:inputType="number"
+                />
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_height="15dp"/>
+
+        </TableRow>
+
+
+        <TableRow
+
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Gender "
+                android:textSize="22dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginRight="5dp"
+                android:textStyle="bold"
+                android:background="@drawable/border"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                />
+            <TextView
+                android:id="@+id/gender"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_marginLeft="5dp"
+                android:textSize="22dp"
+                android:padding="10dp"
+                android:background="@drawable/border"
+                />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:textColor="@color/white4"
+        android:layout_marginBottom="10dp" />
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+   >
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/skinimage"
+        android:background="@drawable/border"
+        android:layout_margin="5dp"
+        android:layout_width="100dp"
+        android:layout_height="52dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+
+        >
+    <ImageView
+        android:id="@+id/color"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="TODO" />
+    </android.support.design.widget.TextInputLayout>
+
+
+
+    <TextView
+        android:background="@drawable/border"
+        android:layout_margin="5dp"
+        android:id="@+id/secondLine"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/skinimage"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="Description"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp" />
+
+    <TextView
+        android:background="@drawable/border"
+        android:layout_margin="5dp"
+        android:layout_height="45dp"
+        android:id="@+id/firstLine"
+        android:layout_width="fill_parent"
+        android:layout_above="@id/secondLine"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_toRightOf="@id/skinimage"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="Example application"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp" />
+
+</RelativeLayout>

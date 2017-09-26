@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#636363</color>
+    <color name="colorBar">#FD7B7C</color>
+    <color name="lightpink">#FACBCC</color>
+
+    <color name="pink1">#FEDFE0</color>
+    <color name="pink2">#FEC8C7</color>
+    <color name="pink3">#FD9B9C</color>
+    <color name="pink4">#FD7B7C</color>
+
+    <color name="black0">#d7000000</color>
+    <color name="black1">#a5000000</color>
+    <color name="white0">#00ffffff</color>
+    <color name="white1">#55ffffff</color>
+    <color name="white2">#82ffffff</color>
+    <color name="white3">#b4ffffff</color>
+    <color name="white4">#dcffffff</color>
+
+
+</resources>
